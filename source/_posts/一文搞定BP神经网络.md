@@ -87,8 +87,9 @@ $$b^{\[1\]}=\left[ \begin{array}{cc} b^{[1]}_1 \\\\ b^{[1]}_2 \end{array}\right]
 
 $$ z^{[1]}=
 \left[ \begin{array}{cc}  w_{11}^{[1]} & w_{12}^{[1]} & w_{13}^{[1]} \\\\ 
-w_{21}^{[1]}& w_{22}^{[1]} & w_{23}^{[1]} \end{array} \right] \cdot \left[ \begin{array}{cc} a^{[0]}_1 \\\\ a^{[0]}_2 \\\\ a^{[0]}_3 \end{array} \right] + \left[ \begin{array}{cc} b^{[1]}_1 \\\\ b^{[1]}_2 \end{array} \right] \\\\ 
-= \left[ \begin{array}{cc} w_{11}^{[1]} a_1^{[0]} + w_{12}^{[1]}a_2^{[0]} + w_{13}^{[1]}a^{[0]}_3+b_1^{[1]} \\\\ w^{[1]}_{21}a_1^{[0]} + w_{22}^{[1]}a_2^{[0]} + w_{23}^{[1]}a^{[0]}_3+b^{[1]}_2\end{array}\right]$$
+w_{21}^{[1]} & w_{22}^{[1]} & w_{23}^{[1]} \end{array} \right] \cdot \left[ \begin{array}{cc} a_1^{[0]} \\\\ a_2^{[0]} \\\\ a_3^{[0]} \end{array} \right] + 
+\left[ \begin{array}{cc} b_1^{[1]} \\\\ b_2^{[1]} \end{array} \right] \\\\ 
+= \left[ \begin{array}{cc} w_{11}^{[1]} a_1^{[0]} + w_{12}^{[1]} a_2^{[0]} + w_{13}^{[1]} a_3^{[0]} + b_1^{[1]} \\\\ w_{21}^{[1]} a_1^{[0]} + w_{22}^{[1]} a_2^{[0]} + w_{23}^{[1]} a_3^{[0]} + b_2^{[1]} \end{array} \right]$$
 
 &emsp;&emsp;更一般地，我们可以把前向传播过程表示：
 
