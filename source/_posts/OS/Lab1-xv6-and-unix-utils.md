@@ -5,10 +5,11 @@ categories:
 tags:
   - 操作系统
   - OS
+  - xv6
 keywords:
   - 操作系统
 date: 2021-02-18 20:22:55
-summary:实验一：xv6 unix utilities
+summary: 实验一：xv6 unix utilities
 ---
 
 > 执行 `make qemu` 运行 xv6 程序
@@ -35,7 +36,7 @@ summary:实验一：xv6 unix utilities
 
 - 将你的 `sleep` 程序添加到 `Makefile` 的 `UPROGS` 中。完成后，可以使用 `make qemu` 编译代码在shell中执行
 
-  - ```shell
+   ```shell
     $ make qemu
     ...
     init: starting sh
