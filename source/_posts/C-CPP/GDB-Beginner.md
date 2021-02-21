@@ -1,7 +1,7 @@
 ---
 title: GDB-Beginner
 categories:
-  - C与硬件
+  - 计算机/C
 tags:
   - GDB
   - 调试
