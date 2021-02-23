@@ -31,7 +31,7 @@ Mack is talking to his friend Don.
 
 ## 沧海遗珠
 
-- funny farm 疯人院 (mental asylum   疯人院[正式用法])
+- funny farm 疯人院 (mental asylum /əˈsaɪləm/   疯人院[正式用法])
 - 区分
   - He is just talking non-sense. 他在胡说八道。(此时 talk 后没有介词)
   - What are you talking about? (有介词)
@@ -50,4 +50,3 @@ Mack is talking to his friend Don.
   - How come you didn't show up at the party?
   - Why didn't you show up at the party?
 - goof around all day 整天无所事事
-
