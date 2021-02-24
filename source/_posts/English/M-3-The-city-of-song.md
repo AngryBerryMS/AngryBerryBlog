@@ -35,14 +35,14 @@ Music fills the air in Vienna. Going to public concerts is often free of charge.
     - adj. 舒适的，温暖的；友好的，亲密无间的；密切的，互相勾结的；轻易得到的（但不一定是恰当的）；不提出（或不接受）挑战的
     - n. （茶壶的）保温罩；（角落里的）带蓬双人座
     - v. （非正式）使感到舒适，使得意
-- mastro  /ˈmaɪstroʊ/ n. 大师，名家，大音乐家
+- maestro  /ˈmaɪstroʊ/ n. 大师，名家，大音乐家
 - These pamphlets are free of charge.
     - pamphlets 小册子
 - be alive with...  充满……
 - slave
     - Don't be enslaved by money.
     - Don't be slave of money.
-- chori  /ˈkwaɪər/  n. 合唱团，唱诗班
+- choir  /ˈkwaɪər/  n. 合唱团，唱诗班
     - chore  /tʃɔːr/ n. 家庭杂务；日常杂事
 - 动名词作主语一般用于已知的事实或经验
     - Playing basketball is fun.
