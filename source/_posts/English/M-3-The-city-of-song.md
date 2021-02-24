@@ -25,9 +25,9 @@ Music fills the air in Vienna. Going to public concerts is often free of charge.
     - Austria 奥地利
 - pot belly 大肚皮
     - He is a big pot belly. 他是一个大肚子。
-- pasttime *n.* 先遣，娱乐
+- pastime *n.* 先遣，娱乐
     - How to past your time over the weekend?
-    - What's your past time over the weekend?
+    - What's your pastime over the weekend?
 - all over the world = across the world = the world over
     - the world over 前不可加任何介词
 - face the music 面对困难
