@@ -23,7 +23,7 @@ Whether Dr. Kevorkian should be allowed to continue doing this is a real problem
 - spooky adj. 幽灵般的；有鬼般的；令人毛骨悚然的
 
 - I helped my mother to wash the dishes.
-  - = I helped Mother to wash the dishes. (没有 “my” 的时候， “Mother” 首字母大写，否则指代不明。)
+  - = I helped **M**other to wash the dishes. (没有 “my” 的时候， “Mother” 首字母大写，否则指代不明。)
 - except... = with the exception of... 除……之外
   - Every rule has its exception. 
     - = There is an exception to every rule.
@@ -49,7 +49,7 @@ Whether Dr. Kevorkian should be allowed to continue doing this is a real problem
 - nagging 喋喋不休的
 - proverb 谚语，格言
 - One is known by the company he keeps. 观其友，知其人。
-- I am worried about that whether he can do it.
-  - = I am worried about **the fact** that he can do it.
+- I am worried about <u>whether</u> he can do it.
+  - = I am worried about **the fact** <u>that</u> he can do it.
     - 名词性从句作介词宾语时，只能用whether引导；遇有介词还非要用 that 从句，要加“the fact” 补救
 
