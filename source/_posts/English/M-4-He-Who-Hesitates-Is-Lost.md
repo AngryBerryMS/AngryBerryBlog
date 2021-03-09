@@ -68,7 +68,7 @@ Mike is in Vienna with his girlfriend Daisy.
 
 - concert going = going to concert; house cleaning = cleaning the house
 
-- As the say, "..."
+- As they say, "..."
 
   - = As people say, "..."
   - = As an old saying goes, "..."

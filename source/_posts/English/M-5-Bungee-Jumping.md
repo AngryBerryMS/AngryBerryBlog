@@ -37,7 +37,7 @@ Some people think I'm crazy. They say to jump is foolish enough, but to have to 
 
   - date 约会
   - appointment 与老师、医生、牙医等的约会
-    - I'd like to have a appointment with you tomorrow, doctor.
+    - I'd like to have an appointment with you tomorrow, doctor.
 
 - The robbers (强盗) tied the band guard with a piece of rope.
 
@@ -69,7 +69,7 @@ Some people think I'm crazy. They say to jump is foolish enough, but to have to 
     - I heard him cry.
   - 现在分词作宾语补足语，表示进行的状态：
     - I saw her leaving.
-    - I heard hem crying.
+    - I heard him crying.
     - I felt my legs trembling.
   - 过去分词作宾语补足语，表示被动的概念：
     - I saw him robbed.

@@ -25,7 +25,7 @@ Lisa and Bill are talking about their future.
 
 **L:** Go bungee jumping.
 
-**B:** You must be kidding. It's to dangerous.
+**B:** You must be kidding. It's too dangerous.
 
 **L:** Well, nothing ventured, nothing gained.
 
